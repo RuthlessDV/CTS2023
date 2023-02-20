@@ -203,7 +203,7 @@ class User
         //c=new ArrayList<Order>();
     }
 
-    public void addO1(Order o)
+    public void addOrder(Order o)
     {
         this.orderList.add(o);
     }
